@@ -30,5 +30,6 @@
 
 /Seminar1/obj/
 
+!obj/
 
 *.csproj
