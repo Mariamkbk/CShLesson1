@@ -1,0 +1,15 @@
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\bin\Debug\net6.0\Example002_1.exe
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\bin\Debug\net6.0\Example002_1.deps.json
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\bin\Debug\net6.0\Example002_1.runtimeconfig.json
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\bin\Debug\net6.0\Example002_1.dll
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\bin\Debug\net6.0\Example002_1.pdb
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\Example002_1.csproj.AssemblyReference.cache
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\Example002_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\Example002_1.AssemblyInfoInputs.cache
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\Example002_1.AssemblyInfo.cs
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\Example002_1.csproj.CoreCompileInputs.cache
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\Example002_1.dll
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\refint\Example002_1.dll
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\Example002_1.pdb
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\Example002_1.genruntimeconfig.cache
+C:\ZET 9\C Sharp1 lesson\Hello Console\Example002_1\obj\Debug\net6.0\ref\Example002_1.dll
