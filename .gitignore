@@ -1,6 +1,34 @@
-﻿.\bin\
+﻿\Example001\bin
 
-.\bin\
+\Example001\obj
+
+\Example002\bin
+
+\Example002\obj
+
+\Example003\bin
+
+\Example003\obj
+
+\Example004\bin
+
+\Example004\obj
+
+\Example005\bin
+
+\Example005\obj
+
+\Example006\bin
+
+\Example006\obj
+
+\Example007\bin
+
+\Example007\obj
+
+Seminar1\bin
+
+Seminar1\obj
 
 *.csproj
 
