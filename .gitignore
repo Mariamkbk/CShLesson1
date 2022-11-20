@@ -1,6 +1,4 @@
-/Example001/bin/
-
-/Example001/obj/
+/Example001/bin/    /Example001/obj/
 
 /Example002/bin/
 
@@ -28,7 +26,7 @@
 
 /Seminar1/bin/
 
-/Seminar1/\obj/
+/Seminar1/obj/
 
 
 *.csproj
