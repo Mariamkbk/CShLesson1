@@ -1,4 +1,4 @@
-﻿\Example001\bin
+\Example001\bin
 
 \Example001\obj
 
@@ -22,7 +22,7 @@
 
 \Example006\obj
 
-/bin
+\Example007\bin
 
 \Example007\obj
 
@@ -31,9 +31,3 @@ Seminar1\bin
 Seminar1\obj
 
 *.csproj
-
-
-
-
-
-
